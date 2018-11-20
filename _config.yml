@@ -8,7 +8,7 @@ markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
 title: Leviou's Blog
-avatart: images/avatar.jpg
+avatar: images/avatar.jpg
 
 
 defaults:
