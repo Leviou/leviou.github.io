@@ -22,7 +22,7 @@ author:
   name: zhaolu
   bio: Welcome!
   github: leviou
-  image: images/head.png
+  avatar: images/head.png
 
 rss_path: feed.xml
 categories_path: categories.html
