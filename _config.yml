@@ -23,7 +23,8 @@ author:
   name: zhaolu
   bio: Welcome!
   github: leviou
-  avatar: https://github.com/Leviou/leviou.github.io/blob/master/images/avatar.jpg
+  avatar: https://leviou.github.io/images/avatar.jpg
+  sidbar_avatar: https://leviou.github.io/images/avatar.jpg
 
 rss_path: feed.xml
 categories_path: categories.html
